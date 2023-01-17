@@ -20,4 +20,4 @@ Test task ajax automation team
 3) Настройка эмулятора - https://developer.android.com/studio/run/emulator
 4) Настройка аппиума - https://appium.io/docs/en/about-appium/getting-started/#installing-appium
 5) Инспектор приложения - https://appium.io/docs/en/drivers/android-uiautomator2/
-6) ![Screan](https://ibb.co/L04jVfD)
+6) ![imag333e](https://user-images.githubusercontent.com/103663723/212798611-0c340b3e-cefa-4096-8fa6-5f7d347abd48.png)
